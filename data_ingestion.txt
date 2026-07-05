@@ -9,3 +9,5 @@ I am learning Git.
 I am fixing this bug.
 
 I am ingesting big data.
+
+I am a serious developer.
